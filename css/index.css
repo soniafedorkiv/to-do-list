@@ -1,0 +1,39 @@
+.body {
+    background-image: url(../image/quantum-gradient.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.main_text {
+    font-family: 'Playpen Sans', sans-serif;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 50px;
+    font-size: 25px;
+}
+.add_task {
+margin-top: 40px;
+margin-bottom: 40px;
+margin-left: 600px;
+font-family: 'Playpen Sans', sans-serif;
+
+}
+.list {
+    height: auto;
+    font-family: 'Playpen Sans', sans-serif;
+    text-align: center;
+    font-size: 20px; 
+    color: #ffffff;
+}
+.task_list {
+    list-style-position: inside;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    line-height: 2.3;
+
+    
+}
+.checkbox{
+    margin-right: 30px; 
+}
